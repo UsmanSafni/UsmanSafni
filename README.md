@@ -4,7 +4,7 @@ Greetings, fellow explorers of the AI realm! I am a **zealous AI Engineer** emba
 
 ### About Me
 
-As an AI enthusiast, I am fueled by curiosity and driven by a desire to make a meaningful impact through technology. My expertise spans across **machine learning, deep learning, and natural language processing**, enabling me to tackle diverse challenges across various industries.
+As an AI enthusiast, I am fueled by curiosity and driven by a desire to make a meaningful impact through technology. My expertise spans across **machine learning, natural language processing and Generative AI**, enabling me to tackle diverse challenges across various industries.
 
 ### Projects Showcase 🚀
 
