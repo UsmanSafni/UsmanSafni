@@ -16,15 +16,18 @@ As an AI enthusiast, I am fueled by curiosity and driven by a desire to make a m
 **Machine Learning & Data Science:**
 - TensorFlow, Scikit-Learn, Keras
 
-**MLOps & Deployment:**
-- MLflow
-
 **Data Wrangling & Visualization:**
 - Pandas 🐼, Numpy
 - Matplotlib, Seaborn
 
-**Web Development & APIs:**
-- Flask, FastAPI
+**Generative AI:**
+- LLMs
+- Transformers
+- Prompt Engineering
+- Hugginf Face
+
+**MLOps & Deployment:**
+- AWS/MLflow
 
 ### Let's Connect!
 
