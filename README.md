@@ -17,14 +17,14 @@ As an AI enthusiast, I am fueled by curiosity and driven by a desire to make a m
 - TensorFlow, Scikit-Learn, Keras
 
 **Data Wrangling & Visualization:**
-- Pandas 🐼, Numpy
+- Pandas, Numpy
 - Matplotlib, Seaborn
 
 **Generative AI:**
 - LLMs
 - Transformers
 - Prompt Engineering
-- Hugginf Face
+- Hugging Face
 
 **MLOps & Deployment:**
 - AWS/MLflow
