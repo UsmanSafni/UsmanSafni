@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Safni Usman!
 
-Greetings, fellow explorers of the AI realm! I am a **zealous AI Engineer** embarking on a journey to unlock the full potential of artificial intelligence. With a passion for innovation and a knack for problem-solving, I'm dedicated to pushing the boundaries of what's possible with AI.
+Greetings, fellow explorers of the AI realm! I am an **AI Engineer** with a passion for innovation and pushing the boundaries of what's possible with AI.
 
 ### About Me
 
-As an AI enthusiast, I am fueled by curiosity and driven by a desire to make a meaningful impact through technology. My expertise spans across **machine learning, natural language processing and Generative AI**, enabling me to tackle diverse challenges across various industries.
+As an AI enthusiast, I am fueled by curiosity and driven by a desire to make a meaningful impact through technology. My expertise spans across **machine learning, natural language processing and Generative AI**.
 
 ### Projects Showcase 🚀
 
