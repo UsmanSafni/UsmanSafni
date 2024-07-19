@@ -8,7 +8,7 @@ Greetings, fellow explorers of the AI realm! I am an **AI Engineer** with a pass
 - Python, C/C++
 
 **Machine Learning & Data Science:**
-- TensorFlow, Scikit-Learn, Keras
+- TensorFlow, Keras, Scikit-Learn
 
 **Data Wrangling & Visualization:**
 - Pandas, Numpy
