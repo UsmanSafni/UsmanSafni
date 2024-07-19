@@ -2,8 +2,6 @@
 
 Greetings, fellow explorers of the AI realm! I am an **AI Engineer** with a passion for innovation and pushing the boundaries of what's possible with AI. My expertise spans across **machine learning, natural language processing and Generative AI**.
 
-### Projects Showcase 🚀
-
 ### Skills Matrix 🛠️
 
 **Programming Languages:**
