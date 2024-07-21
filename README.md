@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Safni Usman!
 
-Greetings, fellow explorers of the AI realm! I am an aspiring **AI Engineer** and my expertise spans across **machine learning, natural language processing and Generative AI**.
+Greetings, fellow explorers of the AI realm! I am an aspiring **AI Engineer** and my interst spans across **machine learning, natural language processing and Generative AI**.
 
 ### Skills Matrix 🛠️
 
