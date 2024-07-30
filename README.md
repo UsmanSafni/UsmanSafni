@@ -15,10 +15,11 @@ Greetings, fellow explorers of the AI realm! I am an aspiring **AI Engineer** an
 - Matplotlib, Seaborn
 
 **Generative AI:**
-- LLMs
-- Transformers
+- NLP
 - Prompt Engineering
-- Hugging Face
+- LangChain
+- RAG
+- Hugging face Libraries
 
 **MLOps & Deployment:**
 - AWS/MLflow
