@@ -18,8 +18,7 @@ Greetings, fellow explorers of the AI realm! I am an aspiring **AI Engineer** an
 - NLP
 - Prompt Engineering
 - LangChain
-- RAG
-- Hugging face Libraries
+- HuggingFace Libraries
 
 **MLOps & Deployment:**
 - AWS/MLflow
